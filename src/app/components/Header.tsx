@@ -31,7 +31,7 @@ export default function Header() {
       <div className="max-w-[1440px] mx-auto px-6 lg:px-10 h-16 lg:h-20 flex items-center justify-between">
 
         <Link href="/" className="text-sm font-bold tracking-[.2em] uppercase  px-3 py-1">
-          AI Master
+          serendale.ai
         </Link>
 
         <nav className="hidden lg:flex items-center gap-8">
