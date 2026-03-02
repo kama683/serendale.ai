@@ -125,14 +125,14 @@ export default function Hero() {
       >
       
         <div className="relative">
-          <Image
-            src="/images/hero-robots.png"
-            alt="AI robots with infinity blockchain symbol"
-            width={1300}
-            height={650}
-            priority
-            className="w-full h-auto"
-          />
+         <Image
+  src="/images/hero-robots.png"
+  alt="AI robots"
+  width={1300}
+  height={650}
+  priority
+  className="w-full h-auto"
+/>
           <div
             className="absolute bottom-0 inset-x-0 h-40 pointer-events-none"
             style={{ background: "linear-gradient(to bottom, transparent, #0a0a0f)" }}
