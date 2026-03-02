@@ -49,7 +49,7 @@ export default function Footer() {
               href="/"
               className="inline-block text-sm font-bold tracking-[.2em] uppercase  px-3 py-1 mb-4"
             >
-              AI Master
+              serendale.ai
             </Link>
             <p className="text-white/35 text-sm leading-relaxed max-w-[220px]">
               AI-powered blockchain platform delivering 120K TPS with
