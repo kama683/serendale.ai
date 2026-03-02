@@ -126,7 +126,7 @@ export default function Hero() {
       
         <div className="relative">
          <Image
-  src="/images/hero-robots.png"
+  src="/Images/hero-robots.png"
   alt="AI robots"
   width={1300}
   height={650}
